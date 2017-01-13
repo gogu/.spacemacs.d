@@ -42,8 +42,7 @@ values."
      ;; auto-completion
      ;; better-defaults
      emacs-lisp
-     ;; git
-     ;; markdown
+     git
      ;; org
      ;; (shell :variables
      ;;        shell-default-height 30
